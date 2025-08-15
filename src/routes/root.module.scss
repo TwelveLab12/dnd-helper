@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+
+  a {
+    text-decoration: unset;
+    font-family: sans-serif;
+    color: #1a1a1a;
+    font-weight: 600;
+  }
+}
